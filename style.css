@@ -1,0 +1,70 @@
+h1{color:rgb(121, 42, 118);
+margin-left: 600px;
+
+}
+body{background-color: navajowhite;}
+
+
+
+
+
+
+
+
+
+.header{
+        display:flex;
+        justify-content: space-between;
+
+
+}
+
+
+.grid{
+      display:flex;
+      flex-wrap: wrap;
+    
+}
+ 
+.item{ display:flex;
+     flex-wrap: wrap ;
+     margin: 10px;
+    ;}
+
+
+
+p,h3{
+    text-align: center;
+    color:rgb(24, 68, 67)
+}
+
+h2{
+    color: rgb(1, 139, 135);
+}
+a:link{
+
+    color:#0d0dff;
+    border: transparent;
+}
+   
+
+a:visited{
+
+    color:#0d0dff;
+    background-color: transparent;
+}
+
+.Materials{
+    margin-top: 30px;
+}
+
+
+     
+        
+
+
+
+
+
+
+
